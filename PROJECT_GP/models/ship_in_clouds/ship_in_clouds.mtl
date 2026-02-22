@@ -1,0 +1,71 @@
+# Blender MTL File: 'ship_in_clouds.blend'
+# Material Count: 6
+
+newmtl Boot_Finaal
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ke C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-szioirj1\\Image_1.jpg
+
+newmtl Cloud_1
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ke C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-09rwx_m1\\Image_4.jpg
+map_d C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-a0dpqcju\\Image_3.png
+
+newmtl Cloud_2
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ke C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-0z7mw1xr\\Image_5.jpg
+map_d C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-a0dpqcju\\Image_3.png
+
+newmtl Cloud_3
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ke C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-zivt52fz\\Image_7.jpg
+map_d C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-x7_pwphy\\Image_6.png
+
+newmtl Poly
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ke C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-3irt3ave\\Image_2.jpg
+
+newmtl material
+Ns 143.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.000000 0.000000 0.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Ke C:\\Users\\retia\\AppData\\Local\\Temp\\gltfimg-o6o5c3oi\\Image_0.jpg

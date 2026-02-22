@@ -1,0 +1,15 @@
+﻿  main.cpp
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(322,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(323,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(328,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(329,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(333,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(334,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(335,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(336,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(1062,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(1238,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\PROJECT_GP\main.cpp(1243,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PROJECT_GP.vcxproj -> E:\UniversityRelated\Facultate\Anul_3\Prelucrare_Grafica\PROJECT_GP\x64\Debug\PROJECT_GP.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
